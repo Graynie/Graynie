@@ -7,10 +7,9 @@
 
 <img height="30%" width="30%" img align='right' src='https://pbs.twimg.com/media/GK7D2uTWEAA78cw?format=png&name=900x900'>  
 
-{
 * 👂 `My name is`: **Graynielle**,
 * 👩 `Pronouns`: **She/Her/They**,
 * 🌱 `I’m currently learning`: **C#,C++**,
 * ❤️ `I love`: **Tea, Read bean buns**  ,
 * 💻 `Favorite lang`: **C#**  
-}
+
